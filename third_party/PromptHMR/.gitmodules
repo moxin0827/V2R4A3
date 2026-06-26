@@ -1,0 +1,6 @@
+[submodule "python_libs/chumpy"]
+	path = python_libs/chumpy
+	url = https://github.com/mattloper/chumpy.git
+[submodule "python_libs/pytorch3d"]
+	path = python_libs/pytorch3d
+	url = https://github.com/facebookresearch/pytorch3d.git
